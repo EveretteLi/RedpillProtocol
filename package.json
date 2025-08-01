@@ -1,5 +1,26 @@
 {
-  "dependencies": {
-    "hardhat": "^2.26.1"
-  }
+  "name": "redpillprotocol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "hardhat": "^2.26.1",
+    "mocha": "^10.8.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EveretteLi/RedpillProtocol.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/EveretteLi/RedpillProtocol/issues"
+  },
+  "homepage": "https://github.com/EveretteLi/RedpillProtocol#readme"
 }
